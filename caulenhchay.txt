@@ -1,4 +1,0 @@
-git pull
-git add .
-git commit -m "mea"
-git push origin main
