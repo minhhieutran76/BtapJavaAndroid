@@ -1,0 +1,2 @@
+Math.PI : pi =3,14
+Math.pow(r,2) : r^2
